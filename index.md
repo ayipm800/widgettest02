@@ -1,12 +1,10 @@
 ## Welcome to GitHub Pages
 
 
-`<script type="text/javascript">
-window.mcwcSettings = {
+`window.mcwcSettings = {
   serviceName: 'widget01.mc-tb.maaiiconnect.com',
 };
-!function(e,t,c){var n,s=e.getElementsByTagName(t)[0];e.getElementById(c)||(n=e.createElement(t),n.id=c,n.defer=!0,n.src="https://mcwc.mc-tb.maaiiconnect.com/mcwc/mcwc.js",s.parentNode.insertBefore(n,s))}(document,"script", "mcwc-sdk");
-</script>`
+!function(e,t,c){var n,s=e.getElementsByTagName(t)[0];e.getElementById(c)||(n=e.createElement(t),n.id=c,n.defer=!0,n.src="https://mcwc.mc-tb.maaiiconnect.com/mcwc/mcwc.js",s.parentNode.insertBefore(n,s))}(document,"script", "mcwc-sdk");`
 
 You can use the [editor on GitHub](https://github.com/ayipm800/widgettest02/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
