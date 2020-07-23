@@ -2,7 +2,7 @@
 
 <script type="text/javascript">
 window.mcwcSettings = {
-  serviceName: 'widget01.mc-tb.maaiiconnect.com',
+  serviceName: 'widget03.mc-tb.maaiiconnect.com',
 };
 !function(e,t,c){var n,s=e.getElementsByTagName(t)[0];e.getElementById(c)||(n=e.createElement(t),n.id=c,n.defer=!0,n.src="https://mcwc.mc-tb.maaiiconnect.com/mcwc/mcwc.js",s.parentNode.insertBefore(n,s))}(document,"script", "mcwc-sdk");
 </script>
